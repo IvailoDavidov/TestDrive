@@ -1,3 +1,2 @@
 password
-second-line
-line 2
+
