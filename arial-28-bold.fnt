@@ -1,0 +1,29 @@
+<font>
+	<info face="/Users/ivaylodavidov/TestDrive\arial-28-bold-export" size="22" />
+	<common lineHeight="22" scaleW="80" scaleH="86" pages="1" />
+	<pages>
+		<page id="0" file="/Users/ivaylodavidov/TestDrive\arial-28-bold-export.png" />
+	</pages>
+	<chars count="18">
+		<char id="49" x="65" y="45" width="10" height="21" xoffset="0" yoffset="1" xadvance="11" /><!-- 1 -->
+		<char id="50" x="52" y="0" width="14" height="21" xoffset="0" yoffset="1" xadvance="15" /><!-- 2 -->
+		<char id="51" x="65" y="22" width="14" height="22" xoffset="0" yoffset="1" xadvance="15" /><!-- 3 -->
+		<char id="52" x="21" y="21" width="15" height="21" xoffset="0" yoffset="1" xadvance="16" /><!-- 4 -->
+		<char id="53" x="50" y="46" width="14" height="21" xoffset="0" yoffset="2" xadvance="15" /><!-- 5 -->
+		<char id="54" x="50" y="23" width="14" height="22" xoffset="0" yoffset="1" xadvance="15" /><!-- 6 -->
+		<char id="55" x="22" y="0" width="14" height="20" xoffset="0" yoffset="2" xadvance="15" /><!-- 7 -->
+		<char id="56" x="34" y="43" width="15" height="22" xoffset="0" yoffset="1" xadvance="16" /><!-- 8 -->
+		<char id="57" x="18" y="63" width="15" height="22" xoffset="0" yoffset="1" xadvance="16" /><!-- 9 -->
+		<char id="48" x="37" y="0" width="14" height="22" xoffset="0" yoffset="1" xadvance="15" /><!-- 0 -->
+		<char id="46" x="19" y="53" width="5" height="4" xoffset="0" yoffset="18" xadvance="6" /><!-- . -->
+		<char id="44" x="19" y="43" width="5" height="9" xoffset="0" yoffset="18" xadvance="6" /><!-- , -->
+		<char id="75" x="0" y="21" width="20" height="20" xoffset="0" yoffset="2" xadvance="21" /><!-- K -->
+		<char id="77" x="0" y="0" width="21" height="20" xoffset="0" yoffset="2" xadvance="22" /><!-- M -->
+		<char id="66" x="0" y="42" width="18" height="20" xoffset="0" yoffset="2" xadvance="19" /><!-- B -->
+		<char id="84" x="0" y="63" width="17" height="20" xoffset="0" yoffset="2" xadvance="18" /><!-- T -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="20" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="160" /><!-- 	 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>
